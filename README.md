@@ -1,1 +1,1 @@
-# SaatvatGupta-preWorkAssignmentSolution
+# Repo for Java projects
